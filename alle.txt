@@ -1,4 +1,4 @@
-Hier ist unser gemeinsamer Plan.
+﻿Hier ist unser gemeinsamer Plan.
 Solange jede unter ihre Überschrift schreibt
 wird das gut funktionieren
 
@@ -25,7 +25,8 @@ Andrea:
 
 Ann-Kathrin:
 ------------
-
+lalalalalalala
+blablablablabla
 
 
 
